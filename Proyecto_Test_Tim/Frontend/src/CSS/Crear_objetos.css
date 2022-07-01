@@ -1,0 +1,191 @@
+.Register_body{
+top: 0px;
+left: 0px;
+width: 1920px;
+height: 1080px;
+background: #F0F0F0 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+
+.Register_base{
+top: 127px;
+left: 400px;
+width: 1121px;
+height: 827px;
+background: var(--blanco) 0% 0% no-repeat padding-box;
+border: 1px solid var(--gris);
+background: #FFFFFF 0% 0% no-repeat padding-box;
+box-shadow: inset 0px 3px 6px #00000029, 0px 3px 6px #00000029;
+border: 1px solid #707070;
+border-radius: 20px;
+opacity: 1;
+}
+
+.Register_title{
+    top: 165px;
+    left: 430px;
+    width: 293px;
+    height: 35px;
+    text-align: left;
+    font: normal normal bold 26px/35px Segoe UI;
+    letter-spacing: 0px;
+    color: #777777;
+    opacity: 1;
+}
+
+.Register_Line{
+
+    top: 250px;
+    left: 476px;
+    width: 969px;
+    height: 3px;
+    border: 2px solid var(--gris);
+    border: 2px solid #707070;
+    opacity: 1;
+}
+
+.Register_tipodoc{
+    top: 307px;
+    left: 427px;
+    width: 306px;
+    height: 58px;
+    background: var(--blanco) 0% 0% no-repeat padding-box;
+    border: 1px solid var(--gris);
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: inset 0px 3px 6px #00000029, 0px 3px 6px #00000029;
+    border: 1px solid #707070;
+    border-radius: 25px;
+    opacity: 1;
+}
+
+.Register_doc{
+    top: 399px;
+    left: 427px;
+    width: 409px;
+    height: 58px;
+    background: var(--blanco) 0% 0% no-repeat padding-box;
+    border: 1px solid var(--gris);
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: inset 0px 3px 6px #00000029, 0px 3px 6px #00000029;
+    border: 1px solid #707070;
+    opacity: 1;
+}
+
+.Register_nom{
+    top: 502px;
+    left: 427px;
+    width: 409px;
+    height: 58px;
+    background: var(--blanco) 0% 0% no-repeat padding-box;
+    border: 1px solid var(--gris);
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: inset 0px 3px 6px #00000029, 0px 3px 6px #00000029;
+    border: 1px solid #707070;
+    opacity: 1;
+}
+
+.Register_ape{
+    top: 506px;
+    left: 902px;
+    width: 409px;
+    height: 58px;
+    background: var(--blanco) 0% 0% no-repeat padding-box;
+    border: 1px solid var(--gris);
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: inset 0px 3px 6px #00000029, 0px 3px 6px #00000029;
+    border: 1px solid #707070;
+    opacity: 1;
+}
+
+.Register_email{
+    top: 605px;
+    left: 427px;
+    width: 409px;
+    height: 58px;
+    background: var(--blanco) 0% 0% no-repeat padding-box;
+    border: 1px solid var(--gris);
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: inset 0px 3px 6px #00000029, 0px 3px 6px #00000029;
+    border: 1px solid #707070;
+    opacity: 1
+}
+
+.Register_cargo{
+    top: 708px;
+    left: 427px;
+    width: 409px;
+    height: 58px;
+    background: var(--blanco) 0% 0% no-repeat padding-box;
+    border: 1px solid var(--gris);
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: inset 0px 3px 6px #00000029, 0px 3px 6px #00000029;
+    border: 1px solid #707070;
+    opacity: 1;
+}
+
+.Register_areaC{
+    top: 708px;
+    left: 902px;
+    width: 409px;
+    height: 58px;
+    background: var(--blanco) 0% 0% no-repeat padding-box;
+    border: 1px solid var(--gris);
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: inset 0px 3px 6px #00000029, 0px 3px 6px #00000029;
+    border: 1px solid #707070;
+    opacity: 1;
+}
+
+.Register_perfil{
+    top: 811px;
+    left: 427px;
+    width: 306px;
+    height: 58px;
+    background: var(--blanco) 0% 0% no-repeat padding-box;
+    border: 1px solid var(--gris);
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: inset 0px 3px 6px #00000029, 0px 3px 6px #00000029;
+    border: 1px solid #707070;
+    border-radius: 25px;
+    opacity: 1;
+}
+
+.Button_Guardar{
+    top: 870px;
+    left: 1070px;
+    width: 207px;
+    height: 50px;
+    border: 1px solid var(--gris);
+    background: #C4161C 0% 0% no-repeat padding-box;
+    border: 1px solid #707070;
+    border-radius: 25px;
+    opacity: 1;
+}
+
+.Button_cancelar1{
+    top: 869px;
+    left: 1318px;
+    width: 154px;
+    height: 50px;
+    border: 1px solid var(--gris);
+    background: #C4161C 0% 0% no-repeat padding-box;
+    border: 1px solid #707070;
+    border-radius: 25px;
+    opacity: 1;
+}
+
+.Button_cancelar_init{
+    top: 144px;
+    left: 1450px;
+    width: 44px;
+    height: 39px;
+    opacity: 1;
+}
+.Registrar_font{
+color: var(--gris);
+text-align: left;
+font: normal normal normal 26px/35px Segoe UI;
+color: #707070;
+font-size: medium;
+opacity: 1;
+}

@@ -1,0 +1,163 @@
+.Usuario_body{
+    top: 0px;
+    left: 0px;
+    width: 1120px;
+    height: 1120px;
+    background: #F0F0F0 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+
+.Usuarios_buscar{
+top: 450px;
+left: 101px;
+width: 600px;
+height: 54px;
+background: var(--blanco) 0% 0% no-repeat padding-box;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+box-shadow: inset 0px 3px 6px #00000029, 0px 5px 6px #00000029;
+border-radius: 6px;
+opacity: 1;
+}
+
+.Agregar_position{
+position: relative;
+top: 60px;
+left: 1350px;
+background-color: #817f7f; color: black;
+box-shadow: 0px 5px 6px #00000029;
+text-align: center;
+border-radius: 5px;
+opacity: 1;
+    }
+
+
+.Usuarios_dashboard{
+position: absolute;
+top: 240px;
+left: 10px;
+width: 1520px;
+height: 812px;
+background: var(--blanco) 0% 0% no-repeat padding-box;
+border: 1px solid var(--gris);
+background: #FFFFFF 0% 0% no-repeat padding-box;
+border: 1px solid #707070;
+border-radius: 5px;
+opacity: 1;
+}
+
+.Usuarios_title_init{
+    position: absolute;
+    top: 30px;
+    left: 90px;
+    width: 300px;
+    height: 20px;
+    text-align: left;
+    font: normal normal 500 30px/30px Segoe UI;
+    color: #000000;
+    opacity: 1;
+    }
+
+.Usuarios_icon_init{
+position: relative;
+top: 15px;
+left: 20px;
+width: 55px;
+height: 55px;
+background: transparent url('../Images/Icono_usuario_dash.png') 0% 0% no-repeat padding-box;
+box-shadow: 0px 5px 6px #00000029;
+opacity: 1;
+}
+
+.Colegios_icon_init{
+    position: relative;
+    top: 40px;
+    left: 20px;
+    width: 55px;
+    height: 55px;
+    background: transparent url('../Images/Icono_colegio.png') 0% 0% no-repeat padding-box;
+    box-shadow: 0px 5px 6px #00000029;
+    opacity: 1;
+    }
+
+    .Test_icon_init{
+        position: relative;
+        top: 40px;
+        left: 20px;
+        width: 55px;
+        height: 55px;
+        background: transparent url('../Images/Icono_test.png') 0% 0% no-repeat padding-box;
+        box-shadow: 0px 5px 6px #00000029;
+        opacity: 1;
+        }
+
+        .programa_icon_init{
+            position: relative;
+            top: 53px;
+            left: 20px;
+            width: 55px;
+            height: 55px;
+            background: transparent url('../Images/icono_programa.png') 0% 0% no-repeat padding-box;
+            box-shadow: 0px 5px 6px #00000029;
+            opacity: 1;
+            }
+
+            .pregunta_icon_init{
+                position: relative;
+                top: 53px;
+                left: 20px;
+                width: 55px;
+                height: 55px;
+                background: transparent url('../Images/Icono_pregunta.png') 0% 0% no-repeat padding-box;
+                box-shadow: 0px 5px 6px #00000029;
+                opacity: 1;
+                }
+
+                .prospectos_icon_init{
+                    position: relative;
+                    top: 53px;
+                    left: 20px;
+                    width: 55px;
+                    height: 55px;
+                    background: transparent url('../Images/Icono_buscar.png') 0% 0% no-repeat padding-box;
+                    box-shadow: 0px 5px 6px #00000029;
+                    opacity: 1;
+                    }
+
+.thead th {
+    background-color: #f8f8f8;
+    color: rgb(73, 73, 73);
+    font-size: medium;
+    font: normal normal 600 14px/17px Segoe UI;
+    letter-spacing: 0px;
+    color: #000000;
+}
+
+.Tabla_position{
+position: relative;
+top: 80px;
+left: 0px;
+}
+
+
+.th{
+font-size: small;
+}
+
+.Usuario_Base_Iconos{
+position: relative;
+top: 0px;
+left: 0px;
+width: 1520px;
+height: 162px;
+background: var(--blanco) 0% 0% no-repeat padding-box;
+border: 1px solid var(--gris);
+background: #FFFFFF 0% 0% no-repeat padding-box;
+border: 1px solid #707070;
+opacity: 0.8;
+}
+
+
+
+
+

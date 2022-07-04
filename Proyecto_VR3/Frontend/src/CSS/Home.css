@@ -1,0 +1,526 @@
+.Home-title {
+position: relative;
+top: 7px;
+left: 223px;
+width: 260px;
+height: 35px;
+text-align: left;
+font: normal normal 900 26px/36px Segoe UI;
+letter-spacing: 0px;
+color: #000000;
+opacity: 1;
+}
+
+.Home_user{
+position: absolute;
+top: 20px;
+left: 1160px;
+width: 252px;
+height: 35px;
+/* UI Properties */
+color: var(--gris);
+text-align: left;
+font: normal normal bold 26px/35px Segoe UI;
+letter-spacing: 0px;
+color: #707070;
+opacity: 1;
+font-size:large;
+}
+
+.Home_logout{
+position: absolute;
+top: 20px;
+left: 1200px;
+opacity: 1;
+font: normal normal bold 26px/35px Segoe UI;
+font-size:large;
+opacity: 1;
+
+}
+
+.Home_nombre{
+  position: absolute;
+  top: 20px;
+  left: 1170px;
+  opacity: 1;
+  font: normal normal bold 26px/35px Segoe UI;
+  font-size:large;
+  opacity: 1;
+  
+  }
+
+.Home_volver{
+  position: absolute;
+  top: 20px;
+  left: 1120px;
+  opacity: 1;
+  font: normal normal bold 26px/35px Segoe UI;
+  font-size:large;
+  }
+
+.Home-titleFont {
+/* Layout Properties */
+position: absolute;
+top: 15px;
+left: 250px;
+width: 500px;
+height: 35px;
+/* UI Properties */
+text-align: left;
+font: normal normal 900 26px/36px Segoe UI;
+letter-spacing: 0px;
+color: #000000;
+opacity: 1;
+font-size:large;
+  }
+
+.uao-logo {
+  position: absolute;
+  top: 7px;
+  left: 170px;
+  width: 63px;
+  height: 50px;
+  background: transparent url('../Images/UAO-logo-simple.png') 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+
+.Home-icono{
+  /* Layout Properties */
+position: absolute;
+top: 15px;
+left: 110px;
+width: 47px;
+height: 33px;
+/* UI Properties */
+background: transparent url('../Images/inicio.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+.Home-header {
+  position: relative;
+  top: 0px;
+  left: 0px;
+  width: 1520px;
+  height: 64px;
+  background: var(--blanco) 0% 0% no-repeat padding-box;
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+  box-shadow: inset 0px 3px 6px #3A1B1B29, 0px 3px 6px #10010129;
+  opacity: 1;
+}
+
+.Home-body {
+  top: 0px;
+  left: 0px;
+  width: 1920px;
+  height: 1350px;
+  background: #F2F2F2 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+
+.Home-dashboard{
+position: absolute;
+top: 20px;
+left: 100px;
+width: 1320px;
+height: 678px;
+background: var(--blanco) 0% 0% no-repeat padding-box;
+border: 1px solid var(--gris);
+background: #FFFFFF 0% 0% no-repeat padding-box;
+box-shadow: inset 0px 3px 6px #FFFFFF28, 0px 3px 6px #00000029;
+border: 1px solid #707070;
+opacity: 0.8;
+}
+
+.Home-Tabla{
+  position: absolute;
+  top: 200px;
+  left: 50px;
+  width: 1430px;
+  height: 578px;
+  background: var(--blanco) 0% 0% no-repeat padding-box;
+  border: 1px solid var(--gris);
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+  box-shadow: inset 0px 3px 6px #FFFFFF28, 0px 3px 6px #00000029;
+  border: 1px solid #707070;
+  opacity: 0.8;
+  }
+.Home-dashboardFont{
+position: relative;
+top: 30px;
+left: 80px;
+width: 96px;
+height: 27px;
+text-align: left;
+font: normal normal normal 20px/27px Segoe UI;
+letter-spacing: 0px;
+color: #897B7B;
+opacity: 0.7;
+}
+
+.Home-user{
+  position: absolute;
+  top: 80px;
+  left: 80px;
+  width: 353px;
+  height: 224px;
+  
+  background: var(--blanco) 0% 0% no-repeat padding-box;
+  border: 1px solid var(--gris);
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+  box-shadow: 0px 10px 6px #00000029;
+  border: 1px solid #707070;
+  opacity: 1;
+}
+
+.Home-userImage {
+/* Layout Properties */
+top: 245px;
+left: 149px;
+width: 353px;
+height: 140px;
+/* UI Properties */
+border: 1px solid var(--gris);
+background: transparent url('../Images/Usuario.png') 0% 0% no-repeat padding-box;
+border: 1px solid #707070;
+opacity: 1;
+
+}
+
+.Home-userFont {
+  top: 396px;
+  left: 0px;
+  width: 54px;
+  height: 21px;
+  text-align: center;
+  text-decoration: underline;
+  font: normal normal normal 16px/21px Segoe UI;
+  letter-spacing: 0px;
+  color: #000000;
+  opacity: 1;
+  }
+
+.Home-colegio{
+  position: absolute;
+  top: 80px;
+  left: 480px;
+  width: 353px;
+  height: 224px;
+  background: var(--blanco) 0% 0% no-repeat padding-box;
+  border: 1px solid var(--gris);
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+  box-shadow: 0px 10px 6px #00000029;
+  border: 1px solid #707070;
+  opacity: 1;
+}
+
+.Home-colegioImage{
+top: 245px;
+left: 544px;
+width: 353px;
+height: 140px;
+border: 1px solid var(--gris);
+background: transparent url('../Images/Colegio.png') 0% 0% no-repeat padding-box;
+box-shadow: inset 0px 6px 6px #00000029;
+border: 1px solid #707070;
+opacity: 1;
+}
+
+.Home-colegioFont{
+top: 396px;
+left: 558px;
+width: 54px;
+height: 21px;
+text-align: left;
+text-decoration: underline;
+font: normal normal normal 16px/21px Segoe UI;
+letter-spacing: 0px;
+color: #000000;
+opacity: 1;
+}
+
+.Home-programa{
+position: absolute;
+top: 80px;
+left: 880px;
+width: 353px;
+height: 224px;
+background: var(--blanco) 0% 0% no-repeat padding-box;
+border: 1px solid var(--gris);
+background: #FFFFFF 0% 0% no-repeat padding-box;
+box-shadow: 0px 10px 6px #00000029;
+border: 1px solid #707070;
+opacity: 1;
+}
+
+.Home-programaImage{
+top: 245px;
+left: 939px;
+width: 353px;
+height: 140px;
+border: 1px solid var(--gris);
+background: transparent url('../Images/Programa.png') 0% 0% no-repeat padding-box;
+border: 1px solid #707070;
+opacity: 1;
+}
+
+.Home-programaFont{
+  top: 396px;
+  left: 960px;
+  width: 500px;
+  height: 21px;
+  text-align: left;
+  text-decoration: underline;
+  font: normal normal normal 16px/21px Segoe UI;
+  letter-spacing: 0px;
+  color: #000000;
+  opacity: 1;
+}
+
+.Home-preguntas{
+position: absolute;
+top: 360px;
+left: 80px;
+width: 353px;
+height: 224px;
+background: var(--blanco) 0% 0% no-repeat padding-box;
+border: 1px solid var(--gris);
+background: #FFFFFF 0% 0% no-repeat padding-box;
+box-shadow: 0px 10px 6px #00000029;
+border: 1px solid #707070;
+opacity: 1;
+}
+
+.Home-PreguntasImage{
+top: 540px;
+left: 149px;
+width: 353px;
+height: 140px;
+border: 1px solid var(--gris);
+background: transparent url('../Images/Pregunta.png') 0% 0% no-repeat padding-box;
+border: 1px solid #707070;
+opacity: 1;
+}
+
+.Home-preguntasFont{
+top: 691px;
+left: 163px;
+width: 71px;
+height: 21px;
+text-align: left;
+text-decoration: underline;
+font: normal normal normal 16px/21px Segoe UI;
+letter-spacing: 0px;
+color: #000000;
+opacity: 1;
+
+}
+.Home-test{
+position: absolute;
+top: 360px;
+left: 480px;
+width: 353px;
+height: 224px;
+background: var(--blanco) 0% 0% no-repeat padding-box;
+border: 1px solid var(--gris);
+background: #FFFFFF 0% 0% no-repeat padding-box;
+box-shadow: 0px 10px 6px #00000029;
+border: 1px solid #707070;
+opacity: 1;
+
+}
+
+.Home-testImage{
+top: 540px;
+left: 149px;
+width: 353px;
+height: 140px;
+border: 1px solid var(--gris);
+background: transparent url('../Images/Examen.png') 0% 0% no-repeat padding-box;
+border: 1px solid #707070;
+opacity: 1;
+}
+
+.Home-testFont{
+top: 691px;
+left: 163px;
+width: 71px;
+height: 21px;
+text-align: left;
+text-decoration: underline;
+font: normal normal normal 16px/21px Segoe UI;
+letter-spacing: 0px;
+color: #000000;
+opacity: 1;
+}
+
+.Home-prospectos{
+position: absolute;
+top: 360px;
+left: 880px;
+width: 353px;
+height: 224px;
+text-align: left;
+color: #000000;
+background: var(--blanco) 0% 0% no-repeat padding-box;
+border: 1px solid var(--gris);
+background: #FFFFFF 0% 0% no-repeat padding-box;
+box-shadow: 0px 10px 6px #00000029;
+border: 1px solid #707070;
+opacity: 1;
+}
+
+.Home-prospectosImage{
+top: 540px;
+left: 939px;
+width: 353px;
+height: 140px;
+border: 1px solid var(--gris);
+background: transparent url('../Images/Prospectos.png') 0% 0% no-repeat padding-box;
+border: 1px solid #707070;
+opacity: 1;
+}
+
+.Home-propectosFont{
+top: 691px;
+left: 939px;
+width: 77px;
+height: 31px;
+float: left;
+text-decoration: underline;
+font: normal normal normal 16px/21px Segoe UI;
+letter-spacing: 0px;
+color: #000000;
+opacity: 1;
+}
+
+.Home-calendario{
+position: absolute;
+top: 0px;
+left: 1350px;
+width: 446px;
+height: 469px;
+/* UI Properties */
+border: 1px solid var(--gris);
+background: #F7F7F7 0% 0% no-repeat padding-box;
+box-shadow: 5px 3px 6px #00000029;
+border: 1px solid #707070;
+border-radius: 4px;
+opacity: 1;
+}
+
+.Home-calendarioImage{
+top: 240px;
+left: 150px;
+width: 446px;
+height: 412px;
+background: transparent url('../Images/Calendario.png') 0% 0% no-repeat padding-box;
+box-shadow: 6px 6px 6px #00000029;
+opacity: 1;
+}
+
+.Home-calendarioFont{
+top: 164px;
+left: 1546px;
+width: 420px;
+height: 35px;
+text-align: center;
+font: normal normal bold 26px/35px Segoe UI;
+letter-spacing: 0px;
+color: #C4161C;
+opacity: 1
+}
+
+.Home-recientes{
+position: relative;
+top: 60px;
+left: 100px;
+width: 1320px;
+height: 478px;
+border: 1px solid var(--gris);
+background: #FCFCFC 0% 0% no-repeat padding-box;
+box-shadow: inset 0px 3px 6px #FFFFFF28, 0px 3px 6px #00000029;
+border: 1px solid #707070;
+opacity: 0.8;
+}
+
+.Home-recientesFont{
+  position: relative;
+  top: 30px;
+  left: 80px;
+  width: 150px;
+  height: 27px;
+  text-align: left;
+  font: normal normal normal 20px/27px Segoe UI;
+  letter-spacing: 0px;
+  color: #897B7B;
+  opacity: 0.7;
+  }
+
+.Home-registroR{
+position: relative;
+top: 50px;
+left: 138px;
+width: 252px;
+height: 55px;
+background: var(--blanco) 0% 0% no-repeat padding-box;
+border: 1px solid var(--gris);
+background: #FFFFFF 0% 0% no-repeat padding-box;
+border: 1px solid #707070;
+border-radius: 6px;
+opacity: 1;
+  }
+
+.Home-registroFont1{
+top: 1008px;
+left: 147px;
+width: 200px;
+height: 19px;
+text-align: left;
+font: normal normal 600 14px/19px Segoe UI;
+letter-spacing: 0px;
+color: #000000;
+opacity: 1;
+}
+
+.Home-registroFont2{
+  top: 1027px;
+  left: 147px;
+  width: 200px;
+  height: 19px;
+  text-align: left;
+  font: normal normal 400 14px/19px Segoe UI;
+  letter-spacing: 0px;
+  color: #A7A7A7;
+  opacity: 1;
+}
+
+.Home-btnEditar{
+position: absolute;
+top: 0px;
+left: 181px;
+width: 68px;
+height: 55px;
+border: 1px solid var(--gris);
+background: #F82E35 0% 0% no-repeat padding-box;
+border: 1px solid #707070;
+border-radius: 0px 6px 6px 0px;
+opacity: 1;
+}
+
+.Home-btnFont{
+top: 150px;
+left: 333px;
+width: 70px;
+height: 50px;
+color: var(--blanco);
+text-align: center;
+font: normal normal normal 18px/24px Segoe UI;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+}
+
+
+
+
+
+

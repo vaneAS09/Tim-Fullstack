@@ -1,0 +1,82 @@
+.inicio-body{
+top: 0px;
+left: 0px;
+width: 1920px;
+height: 1080px;
+background: var(--blanco) 0% 0% no-repeat padding-box;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+
+.logo_uao{
+position: relative;
+top: 0px;
+left: 100px;
+width: 159px;
+height: 154px;
+background-image:url('../Images/UAO-logo.png');
+border:0px;
+}
+
+.btn_iniciar{
+position: relative;
+top: 30px;
+left: 50px;
+width: 273px;
+height: 49px;
+border: 1px solid var(--gris);
+background-color:rgba(110, 5, 5, 0.966);
+color: white;
+border: 1px solid #707070;
+border-radius: 35px;
+font-weight: bold;
+font-size:larger;
+opacity: 1;
+}
+
+.btn_registrar{
+    position: absolute;
+    top: 550px;
+    left: 320px;
+    width: 273px;
+    height: 49px;
+    border: 1px solid var(--gris);
+    background-color:rgba(110, 5, 5, 0.966);
+    color: white;;
+    border: 1px solid #707070;
+    border-radius: 35px;
+    font-weight: bold;
+    font-size:larger;
+    opacity: 1;
+    }
+
+
+.Imagen_inicio{
+position: absolute;
+top: 0px;
+left: 702px;
+width: 818px;
+height: 580px;
+background: transparent url('../Images/UaoEn.jpg') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+
+.Inicio-formulario{
+    position: relative;
+    top: 160px;
+    left: 270px;
+    width: 225px;
+    height: 320px;
+    font-size:large;
+    color: rgb(102, 101, 101);
+
+    }
+
+.input{
+    outline: none;
+    border: 0;
+    border-bottom: 1px solid rgb(102, 101, 101);
+    width: 340px;
+}
+
+
